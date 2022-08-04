@@ -46,7 +46,6 @@ dependencies:
     - executing==0.9.1
     - fastjsonschema==2.16.1
     - filelock==3.7.1
-    - fr-core-news-sm==3.4.0
     - glob2==0.7
     - huggingface-hub==0.8.1
     - idna==3.3
