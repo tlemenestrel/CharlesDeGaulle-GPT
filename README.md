@@ -9,8 +9,6 @@ This repository contains a version of GPT-2 finetuned on data extracted from Cha
 - [Data Collection](#Data-Collection)
 - [Training](#Training)
 
-## Graph Class
-
 <table>
 <tr>
 <td>
