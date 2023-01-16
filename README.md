@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains a version of GPT-2 finetuned on data extracted from Charles De Gaulle's speeches during and after WW2. The GPT-2 model used is a version further pretrained on a large heterogeneous French corpus (~60Gb).
+This repository contains a version of GPT-2 finetuned on data extracted from Charles De Gaulle's speeches during and after WW2. The GPT-2 model used is a version further pretrained on a large heterogeneous French corpus (~60Gb). It is available on HuggingFace at https://huggingface.co/tlemenestrel/CharlesDeGaulle-GPT.
     
 ## Table of Contents
 
