@@ -6,11 +6,8 @@ This repository contains a version of GPT-2 finetuned on data extracted from Cha
     
 ## Table of Contents
 
-- [Data Collection](#Graph-Class)
-- [Breadth-First Search (BFS) Algorithm](#Breadth-First-Search-(BFS)-Algorithm)
-- [Mass Spring](#Mass-Spring)
-- [Conjugate Gradient and Sparse Matrices](#Conjugate-Gradient-and-Sparse-Matrices)
-- [Parallel Computing using OpenMP](#Parallel-Computing-using-OpenMP)
+- [Data Collection](#Data-Collection)
+- [Training](#Training)
 
 ## Graph Class
 
@@ -18,8 +15,6 @@ This repository contains a version of GPT-2 finetuned on data extracted from Cha
 <tr>
 <td>
   
-text
-
 <p align="center">
 <img src="https://github.com/tlemenestrel/CharlesDeGaulle-GPT/blob/main/data/cdg.png" width="700">
 </p>
@@ -28,8 +23,6 @@ text
 </tr>
 </table>
 
-## Breadth-First Search (BFS) Algorithm
+## Data Collection
 
-<table>
-<tr>
-<td>
+## Training
