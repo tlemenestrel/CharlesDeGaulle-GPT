@@ -1,0 +1,34 @@
+{
+  "add_bos_token": false,
+  "add_prefix_space": false,
+  "bos_token": {
+    "__type": "AddedToken",
+    "content": "<|endoftext|>",
+    "lstrip": false,
+    "normalized": true,
+    "rstrip": false,
+    "single_word": false
+  },
+  "eos_token": {
+    "__type": "AddedToken",
+    "content": "<|endoftext|>",
+    "lstrip": false,
+    "normalized": true,
+    "rstrip": false,
+    "single_word": false
+  },
+  "errors": "replace",
+  "model_max_length": 1024,
+  "name_or_path": "antoinelouis/belgpt2",
+  "pad_token": null,
+  "special_tokens_map_file": "/home/thomaslemenestrel/.cache/huggingface/transformers/e19363d532fabc90192003aa7749a0b8e86d37456a239d24f0adc748cf5796db.3ae9ae72462581d20e36bc528e9c47bb30cd671bb21add40ca0b24a0be9fac22",
+  "tokenizer_class": "GPT2Tokenizer",
+  "unk_token": {
+    "__type": "AddedToken",
+    "content": "<|endoftext|>",
+    "lstrip": false,
+    "normalized": true,
+    "rstrip": false,
+    "single_word": false
+  }
+}

@@ -1,4 +1,4 @@
-name: charles_de_gaulle
+name: cdg
 channels:
   - defaults
   - conda-forge
